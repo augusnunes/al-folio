@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description:  Statistic • Optimization • Data Science • Machine Learning
+description:  Statistics • Optimization • Data Science • Machine Learning
 
 profile:
   align: right
@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello there. I'm a Statistic and Data Science undergrad student @ ICMC/USP that love to dance, songs and to discuss about series.
+Hello there. I'm a Statistics and Data Science undergrad student @ ICMC/USP that love to dance, songs and to discuss about series.
 
 I believe scientific methodology and statistical testing are essential for all kind of problems, optimization is also a smart way of solving problems and NLP for portuguese deserves more investments. 
 
