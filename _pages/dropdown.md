@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: CVs
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: portuguese
+      permalink: /assets/pdf/cv_port.pdf
+    #- title: divider
+    #- title: projects
+    #  permalink: /projects/
 ---
